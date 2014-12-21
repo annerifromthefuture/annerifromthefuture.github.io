@@ -1,0 +1,68 @@
+    body {
+      text-align: center;
+      background: url("https://farm8.staticflickr.com/7548/15854666237_f2bb208ca3_o.jpg");
+      background-size: cover;
+      background-position: center;
+      color: #4A3542;
+      font-family: helvetica;
+      max-width: 500px;
+      margin: 0 auto;
+    }
+    
+    ul {
+      color: white;
+      padding: 5px;
+      background-color: rgba(74, 53, 66, 0.6);
+      font-family: helvetica;
+    }
+    
+    li {
+      display: inline;
+      margin: 0px 20px 0px 20px;
+      padding: 5px;
+    }
+    
+    .about:hover {
+      color: white;
+      background-color: rgba(74, 53, 66, 1.0);
+      
+    }
+    
+    .projects:hover {
+      color: white;
+      background-color: rgba(74, 53, 66, 1.0);
+    }
+    
+    .portfolio:hover {
+      color: white;
+      background-color: rgba(74, 53, 66, 1.0);
+      
+    }
+    
+    .contact:hover {
+      color: #0080FF;
+      font-weight: bold;
+    }
+    
+    p {
+      font-size: 15px;
+      color: white;
+      background-color: rgba(74, 53, 66, 0.6);
+      margin: 0 auto;
+      padding: 30px;
+      display: block;
+      
+    }
+    
+    img {
+      border: 5px solid rgba(74, 53, 66, 0.4);
+      border-radius: 150px;
+    } 
+    
+    h5 {
+      color: white;
+    }
+    
+    header {
+      margin: 20px;
+    }
